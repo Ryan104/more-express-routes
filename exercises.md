@@ -22,7 +22,7 @@ var tacos = [
 ```
 
 * Write a route with to allow you to access a `taco` by it's index in the array, such that one could go to the route: "/taco/2" and get back a server response with the text "Super Taco".
-* Write a route with to allow you to access a `burger` by it's index in the array, similar to above.
+* Write a route that allows you to access a `burger` by it's index in the array, same to above.
 
 ### The Number Guessing Game
 
