@@ -19,13 +19,6 @@
 * Status code
 * Middleware
 
-## Outline
-
-* Intro
-* Routing
-    * HTTP GET  
-* Exercises
-
 ### Setup
 
 Let's start with a simple **Express** application.
