@@ -31,7 +31,7 @@ var tacos = [
 ``` javascript
 app.get("/pickanumber", function (req, res) {
     var number = req.query.number;
-    if (number === 7) {
+    if (number == 7) {
         res.send("You picked " + number + "!");
     }
 });
