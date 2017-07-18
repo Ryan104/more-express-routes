@@ -171,7 +171,7 @@ Reset your server and go to [localhost:3000/thank?name=jane](localhost:3000/than
 
 ## Middleware (Review)
 
-What is middleware? [In terms of Express](http://expressjs.com/guide/using-middleware.html), middleware is a function with access to the request object (req), the response object (res), and the next middleware in the application’s request-response cycle, commonly denoted by a variable named next.
+What is middleware? [In terms of Express](http://expressjs.com/guide/using-middleware.html), middleware is a function with access to the request object (req), the response object (res), and the next middleware in the application’s request-response cycle, commonly denoted by a variable named next. In other words, **middleware is any kind of code that is executed after the request, but before the response returns to your function.** 
 
 Middleware can:
 
